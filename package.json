@@ -1,0 +1,12 @@
+{
+  "name": "qstream-module-cli",
+  "version": "1.0.0",
+  "description": "A question-stream module for the CLI",
+  "main": "index.js",
+  "repository": "https://github.com/pfgithub/qstream-module-cli.git",
+  "author": "pfg",
+  "license": "MIT",
+  "dependencies": {
+    "question-stream": "^1.0.0"
+  }
+}
