@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+keypress@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/keypress/-/keypress-0.2.1.tgz#1e80454250018dbad4c3fe94497d6e67b6269c77"
+
 question-stream@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/question-stream/-/question-stream-1.0.0.tgz#3cbc2d2151b074715faeee53676e9eaef0e1fc3f"
